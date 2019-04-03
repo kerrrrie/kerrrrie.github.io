@@ -25,6 +25,7 @@ order: 3
 
 ### Why Ignite CLI?
 
+* **Better vision**
 * **Easily spin up a new React Native app** with best practices built-in
 * **No runtime!** This is a developer tool only, not a library you have to depend on and figure out how to upgrade
 * **An ever-expanding list of [boilerplates](./BOILERPLATES.md) and [plugins](./PLUGINS.md)** to jump-start your app
